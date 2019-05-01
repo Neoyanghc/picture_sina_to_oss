@@ -1,20 +1,6 @@
 # -oss-
 新浪图床外链被封，损失惨重，对本地md文件中的sina图床进行自动上传替换
----
 
-layout:     post
-title:      "新浪图床链接->阿里云oss 一键替换程序"
-subtitle:   " \"告别免费图床时代，感谢新浪sina\""
-date:       2019-5-1 23:00:00
-author:     "jack"
-header-img: "img/post-bg-un.jpg"
-catalog: true
-tags:
-    - 大学
-    - 自己
-
-
----
 
 > “五一假期都要闲死了，大家节日快乐 ”
 
